@@ -15,7 +15,7 @@ export const Content = styled.div`
   margin: auto;
   @media (max-width: 480px) {
     flex-direction: column;
-    align-items:center
+    align-items: center;
   }
 `
 
@@ -37,7 +37,7 @@ export const ContentRightLogin = styled.div`
   border-left: 1px solid #aaa;
   margin-left: 10px;
   @media (max-width: 480px) {
-    border-left:none
+    border-left: none;
   }
   h2 {
     color: #333;
@@ -58,7 +58,7 @@ export const ContentRightLogin = styled.div`
         padding: 6px;
         border: 1px solid #aaa;
         font-size: 14px;
-        border-radius:5px;
+        border-radius: 5px;
       }
     }
     button[type='submit'] {
@@ -66,13 +66,13 @@ export const ContentRightLogin = styled.div`
       width: 100%;
       padding: 8px;
       border: none;
-      background: #166275;
+      background: #29d9c7;
       color: #fff;
       font-weight: 300;
       cursor: pointer;
-      border-radius:5px;
+      border-radius: 5px;
       &:hover {
-        background: #12414d;
+        background: #112959;
       }
     }
   }
@@ -83,26 +83,31 @@ export const ContentRightLogin = styled.div`
       display: block;
       text-align: center;
       margin: 10px;
-      &:hover{
-        text-decoration:underline
+      &:hover {
+        text-decoration: underline;
       }
     }
   }
-  .create{
-    margin-top:40px;
-    span{
-        font-size:12px;
-        margin-right:10px
+  .create {
+    margin-top: 40px;
+    @media (max-width: 480px) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
-    button{
-        border:1px solid #166275;
-        background:none;
-        padding:5px;
-        color: #166275;
-        border-radius:5px;
-        &:hover{
-        background:#166275;
-        color:#FFF
+    span {
+      font-size: 12px;
+      margin-right: 10px;
+    }
+    button {
+      border: 1px solid #112959;
+      background: none;
+      padding: 5px;
+      color: #166275;
+      border-radius: 5px;
+      &:hover {
+        background: #29d9c7;
+        color: #fff;
       }
     }
   }
