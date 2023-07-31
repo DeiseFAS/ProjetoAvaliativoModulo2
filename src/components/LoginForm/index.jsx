@@ -1,6 +1,6 @@
 import React, { useState,useEffect } from 'react';
-// import Modal from '../Modal';
-// import RegisterUser from '../RegisterUser';
+import Modal from '../Modal';
+import RegisterUser from '../RegisterUser';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import axios from 'axios';
@@ -135,10 +135,10 @@ const LoginForm = () => {
 
       <ToastContainer />
 
-      {/* <Modal isOpen={isModalOpen} onClose={handleCloseModal}>
+      <Modal isOpen={isModalOpen} onClose={handleCloseModal}>
         
          <RegisterUser/>
-      </Modal> */}
+      </Modal>
     </div>
   );
 };
