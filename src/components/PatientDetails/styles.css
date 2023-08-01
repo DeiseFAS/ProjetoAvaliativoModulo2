@@ -1,0 +1,78 @@
+.container-patient-details {
+  display: flex;
+ 
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.patient-details {
+  margin-bottom: 1rem;
+    padding: 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.patient-details p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.patient-details strong {
+  font-weight: normal;
+}
+
+.history-container{
+    display: flex;
+}
+
+.history-container h3 {
+  margin-top: 0;
+  color: #3c4b64;
+  margin-bottom: 20px;
+}
+
+.history-container > div {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  width: 100%;
+}
+
+.history-container > div p {
+  margin-bottom: 5px;
+}
+
+/* Estilos para os botões de editar e deletar */
+.history-container button {
+  background-color: #3c4b64;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.history-container button:hover {
+  background-color: #3c4b64;
+}
+
+.bts-details-exams-consults{
+    margin-top: 15px;
+}
+
+hr {
+  margin: 10px 0;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+@media (max-width: 480px) {
+  .history-container {
+    flex-wrap: wrap;
+  }
+}
