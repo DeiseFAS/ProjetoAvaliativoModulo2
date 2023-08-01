@@ -236,6 +236,16 @@
       "medication": "dfjklasjdfjlka djkfaskdf a",
       "dosagePrecautions": "4 vezes ao dia",
       "id": 4
+    },
+    {
+      "patientId": 1,
+      "reason": "Dor de cabeça ",
+      "date": "2023-08-01",
+      "time": "16:26",
+      "description": "queixa de dores de cabeça frequentes",
+      "medication": "aspirina ",
+      "dosagePrecautions": "2x ao dia",
+      "id": 5
     }
   ],
   "exams": [
