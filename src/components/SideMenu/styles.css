@@ -1,7 +1,7 @@
 .side-menu {
   height:100vh;
   min-height: 100%;
-  background-color: #3c4b64;
+  background-color: #112959;
   /* padding: 16px; */
   transition: all 0.3s ease-in-out;
   
@@ -35,7 +35,7 @@
 }
 
 .side-menu ul li a:hover {
-  background: #262f3e;
+  background: #60a6a6;
 }
 
 .side-menu ul li a span {

@@ -4,7 +4,7 @@ export const App = styled.div`
   width: 100%;
   height: 100%;
   display: flex;
-  background-color: #efefef;
+  background-color: #f2f2f2;
 `
 
 export const Main = styled.main`
@@ -28,7 +28,7 @@ export const Content = styled.div`
 
 export const ContentPatientsList = styled.section`
   background-color: #fff;
-  color: #666;
+  color: #112959;
   flex: 1;
   width: 100%;
   transition: all ease-in 0.3s;
@@ -70,7 +70,7 @@ export const ContentPatientsList = styled.section`
       }
       a {
         display: block;
-        background: #3c4b64;
+        background: #29d9c7;
         width: 100%;
         margin-top: 10px;
         padding: 5px;
@@ -79,7 +79,7 @@ export const ContentPatientsList = styled.section`
         color: #eee;
         text-decoration: none;
         &:hover{
-          background: #4c5e7e;
+          background: #112959;
         }
       }
     }

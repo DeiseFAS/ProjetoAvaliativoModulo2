@@ -14,7 +14,10 @@ export const Card = styled.div`
   
   div{
     display:flex;
-    align-items:center
+    align-items:center;
+    h2{
+      color: #29d9c7;
+    }
   }
 `;
 

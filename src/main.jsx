@@ -9,7 +9,7 @@ import './global.css'
 import ErrorPage from './routes/error-page'
 
 import Login from './routes/login'
-// import Dashboard from './routes/dashboard'
+import Dashboard from './routes/dashboard'
 // import RegisterPatient from './routes/register-patient'
 // import Consults from './routes/consults'
 // import Exams from './routes/exams'
@@ -23,10 +23,10 @@ const router = createBrowserRouter([
 
     errorElement: <ErrorPage />
   },
-  // {
-  //   path: 'dashboard',
-  //   element: <Dashboard />
-  // },
+  {
+    path: 'dashboard',
+    element: <Dashboard />
+  },
   // {
   //   path: 'cadastro-paciente',
   //   element: <RegisterPatient />
