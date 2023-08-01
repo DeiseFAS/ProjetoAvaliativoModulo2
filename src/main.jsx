@@ -13,7 +13,7 @@ import Dashboard from './routes/dashboard'
 import RegisterPatient from './routes/register-patient'
 // import Consults from './routes/consults'
 // import Exams from './routes/exams'
-// import MedicalRecordList from './routes/medical-record-list'
+import MedicalRecordList from './routes/medical-record-list'
 // import PatientDetails from './routes/patient'
 
 const router = createBrowserRouter([
@@ -31,10 +31,10 @@ const router = createBrowserRouter([
     path: 'cadastro-paciente',
     element: <RegisterPatient />
   },
-  // {
-  //   path: 'prontuarios',
-  //   element: <MedicalRecordList />
-  // },
+  {
+    path: 'prontuarios',
+    element: <MedicalRecordList />
+  },
   // {
   //   path: 'consultas',
   //   element: <Consults />
