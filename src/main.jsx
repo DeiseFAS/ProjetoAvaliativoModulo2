@@ -14,7 +14,7 @@ import RegisterPatient from './routes/register-patient'
 import Consults from './routes/consults'
 import Exams from './routes/exams'
 import MedicalRecordList from './routes/medical-record-list'
-// import PatientDetails from './routes/patient'
+import PatientDetails from './routes/patient'
 
 const router = createBrowserRouter([
   {
@@ -44,10 +44,10 @@ const router = createBrowserRouter([
     element: <Exams />
   },
 
-  // {
-  //   path: '/paciente/:id',
-  //   element: <PatientDetails />
-  // }
+  {
+    path: '/paciente/:id',
+    element: <PatientDetails />
+  }
 ])
 
 ReactDOM.createRoot(document.getElementById('root')).render(
