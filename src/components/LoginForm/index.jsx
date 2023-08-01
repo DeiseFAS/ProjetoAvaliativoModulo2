@@ -55,12 +55,12 @@ const LoginForm = () => {
           autoClose: 3000,
           hideProgressBar: true,
         });
-       // alert('Usuário não encontrado. Verifique o e-mail e senha.');
+       // alert
         return;
       }
       
       
-      // Lógica para fazer o login 
+      // Lógica login 
       setIsLoggedIn(true);
       localStorage.setItem('email', email);
       console.log('Login bem-sucedido!');
@@ -96,7 +96,7 @@ const LoginForm = () => {
   return isLoggedIn ? (
     <Navigate to="/dashboard" replace={true} />
   ) : (
-    // return (
+    // return
     <div>
       <h2>Login</h2>
       <form onSubmit={handleLogin}>

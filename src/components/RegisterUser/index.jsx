@@ -44,8 +44,8 @@ const RegisterUser = () => {
       resetForm();
       toast.success('Usuário criado com sucesso!', {
         position: toast.POSITION.TOP_CENTER,
-        autoClose: 2000, // Tempo de exibição da notificação em milissegundos
-        hideProgressBar: true, // Esconde a barra de progresso da notificação
+        autoClose: 2000, // Tempo de exibição
+        hideProgressBar: true, // Esconde barra de progresso da notificação
       });
       console.log('Usuário criado com sucesso!');
     } catch (error) {
