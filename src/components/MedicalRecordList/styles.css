@@ -1,0 +1,42 @@
+.medical-record-list ul li{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.medical-record-list ul li p{
+    width: 20%;
+}
+
+.medical-record-list ul li p.register-user{
+    width: 15%;
+}
+
+.medical-record-list ul li p.register-name{
+    width: 25%;
+}
+
+.medical-record-list ul li p.link-details{
+    text-align: right;
+}
+
+.medical-record-list ul li a{
+    background: #3c4b64;
+    color: #FFF;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+@media (max-width: 480px) {
+    .medical-record-list ul li p.register-user,.medical-record-list ul li p.register-healthInsurance {
+     display: none;
+    }
+
+    .medical-record-list ul li p.register-name,.medical-record-list ul li p.link-details {
+        width: 100%;
+       }
+
+  }
