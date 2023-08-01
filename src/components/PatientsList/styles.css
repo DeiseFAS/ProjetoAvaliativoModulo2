@@ -1,0 +1,11 @@
+.patient-search{
+  padding: 10px;
+}
+
+.patient-search label{
+  margin-bottom: 10px;
+}
+
+.patient-search #search{
+  padding: 10px;
+}
