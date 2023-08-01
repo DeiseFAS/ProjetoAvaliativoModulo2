@@ -204,6 +204,34 @@
         "number": "31"
       },
       "id": 6
+    },
+    {
+      "fullName": "Lance Dog",
+      "gender": "masculino",
+      "birthdate": "2007-02-01",
+      "cpf": "060.606.060-60",
+      "rg": "060606",
+      "maritalStatus": "solteiro(a)",
+      "phone": "(48)59595-9595",
+      "email": "lan.noceu@gmail.com",
+      "birthplace": "Brasileiro",
+      "emergencyContact": "(56)56565-6565",
+      "allergies": "mofo",
+      "specialCare": "",
+      "healthInsurance": "unimed",
+      "insuranceNumber": "98745632",
+      "insuranceValidity": "2025-05-05",
+      "address": {
+        "cep": "88054-600",
+        "city": "Florianópolis",
+        "state": "SC",
+        "street": "Rodovia Tertuliano Brito Xavier",
+        "complement": "até 2421/2422",
+        "neighborhood": "Canasvieiras",
+        "reference": "casa",
+        "number": "50"
+      },
+      "id": 7
     }
   ],
   "consults": [
@@ -274,7 +302,7 @@
       "date": "2023-08-25",
       "time": "20:58",
       "type": "clinico",
-      "laboratory": "barriga verde",
+      "laboratory": "unimed",
       "documentUrl": "url.com.br/exame.pdf",
       "results": "resultados ok",
       "patientId": 1,
@@ -312,17 +340,6 @@
       "results": "fdadfadfaf sadf asdf as",
       "patientId": 6,
       "id": 7
-    },
-    {
-      "name": "hemograma",
-      "date": "2023-09-30",
-      "time": "08:00",
-      "type": "sangue",
-      "laboratory": "santa luzia",
-      "documentUrl": "",
-      "results": "em analise",
-      "patientId": 1,
-      "id": 8
     }
   ]
 }

@@ -28,7 +28,7 @@
 
 .history-container h3 {
   margin-top: 0;
-  color: #3c4b64;
+  color: #112959;
   margin-bottom: 20px;
 }
 
@@ -46,9 +46,9 @@
   margin-bottom: 5px;
 }
 
-/* Estilos para os botões de editar e deletar */
+/* editar e deletar */
 .history-container button {
-  background-color: #3c4b64;
+  background-color: #29d9c7;
   color: #fff;
   padding: 8px 16px;
   border: none;
@@ -58,7 +58,7 @@
 }
 
 .history-container button:hover {
-  background-color: #3c4b64;
+  background-color: #112959;
 }
 
 .bts-details-exams-consults{
