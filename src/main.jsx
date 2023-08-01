@@ -11,7 +11,7 @@ import ErrorPage from './routes/error-page'
 import Login from './routes/login'
 import Dashboard from './routes/dashboard'
 import RegisterPatient from './routes/register-patient'
-// import Consults from './routes/consults'
+import Consults from './routes/consults'
 // import Exams from './routes/exams'
 import MedicalRecordList from './routes/medical-record-list'
 // import PatientDetails from './routes/patient'
@@ -35,10 +35,10 @@ const router = createBrowserRouter([
     path: 'prontuarios',
     element: <MedicalRecordList />
   },
-  // {
-  //   path: 'consultas',
-  //   element: <Consults />
-  // },
+  {
+    path: 'consultas',
+    element: <Consults />
+  },
   // {
   //   path: 'exames',
   //   element: <Exams />
