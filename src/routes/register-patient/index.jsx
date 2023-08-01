@@ -8,10 +8,6 @@ import RegisterFormPatient from "../../components/RegisterFormPatient"
 
 
 //style
-
-
-
-
 export default function Dashboard () {
   return (
     <>

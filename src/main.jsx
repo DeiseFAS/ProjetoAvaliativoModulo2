@@ -10,7 +10,7 @@ import ErrorPage from './routes/error-page'
 
 import Login from './routes/login'
 import Dashboard from './routes/dashboard'
-// import RegisterPatient from './routes/register-patient'
+import RegisterPatient from './routes/register-patient'
 // import Consults from './routes/consults'
 // import Exams from './routes/exams'
 // import MedicalRecordList from './routes/medical-record-list'
@@ -27,10 +27,10 @@ const router = createBrowserRouter([
     path: 'dashboard',
     element: <Dashboard />
   },
-  // {
-  //   path: 'cadastro-paciente',
-  //   element: <RegisterPatient />
-  // },
+  {
+    path: 'cadastro-paciente',
+    element: <RegisterPatient />
+  },
   // {
   //   path: 'prontuarios',
   //   element: <MedicalRecordList />

@@ -1,0 +1,43 @@
+form.patient {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+form.patient div {
+  margin: 10px;
+}
+
+form.patient div input,
+form.patient div select,
+form.patient div textarea {
+  max-width: 100%;
+  width: 300px;
+}
+
+form.patient div.bts {
+  max-width: 100%;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+form.patient div.bts button {
+  padding: 10px;
+  border: none;
+}
+
+form.patient div.bts button[type='submit'] {
+  color: #eee;
+  background: #506484;
+  border-radius: 5px;
+  transition: all ease-in-out 0.3s;
+}
+
+@media (max-width: 480px) {
+  form.patient {
+    justify-content: center;
+  }
+}
