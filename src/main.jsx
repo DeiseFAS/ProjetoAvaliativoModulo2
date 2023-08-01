@@ -39,10 +39,10 @@ const router = createBrowserRouter([
     path: 'consultas',
     element: <Consults />
   },
-  // {
-  //   path: 'exames',
-  //   element: <Exams />
-  // },
+  {
+    path: 'exames',
+    element: <Exams />
+  },
 
   // {
   //   path: '/paciente/:id',
