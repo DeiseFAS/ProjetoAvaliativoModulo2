@@ -12,7 +12,7 @@ import Login from './routes/login'
 import Dashboard from './routes/dashboard'
 import RegisterPatient from './routes/register-patient'
 import Consults from './routes/consults'
-// import Exams from './routes/exams'
+import Exams from './routes/exams'
 import MedicalRecordList from './routes/medical-record-list'
 // import PatientDetails from './routes/patient'
 
