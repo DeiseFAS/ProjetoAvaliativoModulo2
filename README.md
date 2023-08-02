@@ -202,7 +202,8 @@ Nesse projeto resolvi experimentar uma animação, por se tratar de uma aplicaç
 Tenho consciência que em uma aplicação real, talvez a animação não fosse aprovada, até mesmo por conta do ramo, mas por se tratar de um projeto fictício, acreditei que o cliente fictício aprovou :) 
 E aproveitei a oportunidade para explorar algo novo para mim.
 
-Embora eu tenha usado vários vetores free e feito imagens no Adobe Ilustrador para montar a cena, a logíca para os movimentos não é minha. Por isso não posso deixar de citar a referência para essa animação que vi no repositório
+Embora eu tenha usado vários vetores free e feito imagens no Adobe Ilustrador para montar a cena, a logíca básica
+ para os movimentos não é minha. Por isso não posso deixar de citar a referência para essa animação que vi no repositório
 da brunasilvaraujo - Bruna Silva.
 
 
