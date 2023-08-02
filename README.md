@@ -54,13 +54,20 @@ Caso tenha duvidas de como clonar um repositório, siga as intruções do propri
 
 # Dependências
 
-As dependências utilizadas nessa aplicação serão instaladas automaticamente quando der o comando "npm install", logo depois de clonar o projeto. Conforme é detalhado no topico Instalação dessa documentação.
+As dependências utilizadas nessa aplicação serão instaladas automaticamente quando usado o comando "npm install", logo depois de clonar o projeto. Conforme é detalhado no topico Instalação dessa documentação.
 
 Embora não seja necessária a instalação individual de cada uma das dependencias, conforme citado no paragrafo anterior, é importante que você saiba quais são as principais e pelo que são responsáveis.
 
 | Dependência | Versão | Uso |
 | ------ | ------ | ------ |
-| "react" | ^18.2.0 | Biblioteca JavaScript |
+| "axios" | ^1.4.0 | O Axios é uma biblioteca JavaScript que permite fazer requisições HTTP para servidores. É muito utilizado para realizar operações como buscar, enviar, atualizar e excluir dados de APIs e servidores. |
+| "react" | ^18.2.0 | O React é uma biblioteca JavaScript para construção de interfaces de usuário. Ele permite criar componentes reutilizáveis, que atualizam automaticamente quando há mudanças nos dados. |
+| "react-dom" | ^18.2.0 | O React-DOM é um pacote que facilita a integração do React com o DOM do navegador. Ele é responsável por renderizar os componentes React na página web. |
+| "react-icons" | ^4.10.1 | O React-Icons é uma biblioteca que fornece um conjunto de ícones populares. Com ele, você pode facilmente incluir ícones em sua aplicação React sem a necessidade de imagens ou fontes adicionais. |
+| "react-input-mask" | ^2.0.4 | O React-Input-Mask é uma biblioteca que permite aplicar máscaras a campos de entrada de texto. Com ele, é possível formatar e validar automaticamente campos como números de telefone, CPF, datas, entre outros. |
+| "react-router-dom" | ^6.14.1 | O React-Router-DOM é uma biblioteca que oferece roteamento para aplicações React baseadas em navegadores. Ele permite criar rotas que correspondem a diferentes componentes e gerenciar a navegação entre páginas. |
+| "react-toastify" | ^9.1.3 | O React-Toastify é uma biblioteca para exibir notificações e mensagens temporárias na interface do usuário.É útil para exibir mensagens de sucesso, erro ou outras informações importantes para o usuário. |
+| "styled-components" | ^6.0.4 | O Styled-Components é uma biblioteca que permite escrever estilos CSS diretamente nos componentes React.Com ele, você pode criar estilos específicos para cada componente, tornando o código mais modular e reutilizável. |
 
 
 # Formato do sistema
@@ -78,12 +85,16 @@ Aplicação foi construída utilizando a biblioteca React:
 
 # Layout
 
+![image](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/19db0327-6001-4731-af2c-b483a8a36d02)
+
+
 Como tivemos a liberdade para batizar a aplicação, o Layout foi pensado para seguir o ínicio de uma identidade visual criada lá no projeto do módulo1, uando o mesmo nome e logo criados por mim. 
 A estrutura no entanto, segui o exemplo fornecido no escopo do projeto.
 
 logo
 
-![logop-git](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/934ab077-a49b-499e-81e7-b27cbd8e8a56)
+![design](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/e8e5cb61-d8c8-48ca-ae3d-0623d6506a53)
+
 
 
 # Organização para o desenvolvimento do projeto
@@ -124,7 +135,8 @@ Mentor: Robert Santos
 
      ------------- em breve -------------
 
-<<<<<<< HEAD
-REPOSITÓRIO EM ATUALIZAÇÃO.
-=======
+# Extra
+
+[hitpaw-1690975177678.webm](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/21ecd7cb-cc44-46a9-aaa0-68f1d51b603e)
+
 
