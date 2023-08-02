@@ -52,6 +52,28 @@ Caso tenha duvidas de como clonar um repositório, siga as intruções do propri
   cd ProjetoAvaliativoModulo2
 ```
 
+Em seguida use o comando abaixo para iniciar o projeto
+
+```bash
+  npm run dev
+```
+Nesse projeto fizemos o uso do JSON Server  que é uma ferramenta que simula um servidor de API RESTful com base em um arquivo JSON. Ele permite criar rapidamente uma API fictícia para testar e desenvolver sistemas sem a necessidade de um servidor real.
+
+O JSON Server cria uma API RESTful falsa a partir de um arquivo JSON contendo dados simulados. Esses dados podem ser consultados, criados, atualizados e excluídos usando as rotas e métodos HTTP padrão.
+
+Caso encontre dificuldades na instalação do JSON Server, acesse o link com o passo a passo.
+- entre na pasta server conforme demonstrado abaixo e instale o JSON Server no projeto executando o seguinte comando:
+
+```bash
+  cd src/
+  cd src/server
+  npm install json-server
+```
+
+
+
+
+ 
 
 # Dependências
 
@@ -96,10 +118,12 @@ A estrutura no entanto, segui o exemplo fornecido no escopo do projeto.
 
 ![design](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/e8e5cb61-d8c8-48ca-ae3d-0623d6506a53)
 
-- 1 Gradiente
-- 2 Paleta escolhida
-- 3 Variações da logo 
-- 4 Imagem para tela de login
+| N.º | Descrição | uso na aplicação |
+| ------ | ------ | ------ |
+| 1 | Gradiente | usado no bacgroud de fundo na pagina de login | 
+| 2 | Paleta escolhida | batizada de acqua, foi usada em toda a identidade visual | 
+| 3 | Variações da logo | foram necessarias algumas alterações para esse projeto na inteção de tornala mais "amigavel" | 
+| 4 | Imagem para tela de login | inclui um personagem, tbm na intenção de tornar a marca mais amigavel | 
 
 As cores pensadas para a aplicação, foi com base ao que é familiar ao usuário quando se trata de ambientes voltados aos cuidados da saúde.
 A escolha de tons claros e verdes em ambientes hospitalares é influenciada por várias razões, sendo algumas das principais:
@@ -163,5 +187,7 @@ Tenho consciência que em uma aplicação real, talvez a animação não fosse a
 E aproveitei a oportunidade para explorar algo novo para mim.
 
 [hitpaw-1690975177678.webm](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/21ecd7cb-cc44-46a9-aaa0-68f1d51b603e)
+
+
 
 
