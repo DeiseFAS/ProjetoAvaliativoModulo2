@@ -19,7 +19,7 @@
 * [Aprendizado](#aprendizado)
 * [Autor](#autor)
 * [Agradecimentos](#agradecimentos)
-* [Extra](#autor)
+* [Extra](#extra)
 
 # Roteiro da aplicação
 
@@ -92,10 +92,22 @@ Aplicação foi construída utilizando a biblioteca React:
 Como tivemos a liberdade para batizar a aplicação, o Layout foi pensado para seguir o ínicio de uma identidade visual criada lá no projeto do módulo1, uando o mesmo nome e logo criados por mim. 
 A estrutura no entanto, segui o exemplo fornecido no escopo do projeto.
 
-logo
+## Desenvolvimento e criação
 
 ![design](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/e8e5cb61-d8c8-48ca-ae3d-0623d6506a53)
 
+- 1 Gradiente
+- 2 Paleta escolhida
+- 3 Variações da logo 
+- 4 Imagem para tela de login
+
+As cores pensadas para a aplicação, foi com base ao que é familiar ao usuário quando se trata de ambientes voltados aos cuidados da saúde.
+A escolha de tons claros e verdes em ambientes hospitalares é influenciada por várias razões, sendo algumas das principais:
+Sensação de calma e tranquilidade,
+Efeito terapêutico,
+Sensação de limpeza e higiene,
+Melhora da iluminação,
+Facilitação da leitura de informações, e até em Aspectos psicológicos: Estudos mostram que cores claras e verdes têm um impacto positivo na mente das pessoas, promovendo uma sensação de segurança, equilíbrio e bem-estar.
 
 
 # Organização para o desenvolvimento do projeto
@@ -111,10 +123,13 @@ Na imagem abaixo é possivel ver a organização do quadro na primeira semana e 
 
 # Melhorias
 
-O projeto pode ser considerado um MVP, minimo produto viável. Logo muitas melhorias se fazem necessárias, listarei algumas.
+O projeto pode ser considerado um MVP, minimo produto viável. 
+Logo muitas melhorias se fazem necessárias, listarei algumas que considero mais urgentes:
+
 - Segurança, não a niveis de acesso
 - Acessibilidade, não foi feito o uso de todos os recursos existentes hoje para uma melhor acessibilidade.
-
+- Contraste em algumas partes do layout
+- A inclusão de alguns alertas ( principalmente antes de excluir um arquivo )
 
 # Aprendizado
 
