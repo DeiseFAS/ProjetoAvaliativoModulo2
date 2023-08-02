@@ -182,7 +182,7 @@ Com o desenvolviento desse projeto pude experimentar as "dores e delicias" de fa
 
 Esse projeto foi desenvolvido por: Deise F A S.
 
-Mentor: Robert Santos
+Mentor Queridão: Robert Santos
 
 # Agradecimentos
 
@@ -196,11 +196,13 @@ Nesse projeto resolvi experimentar uma animação, por se tratar de uma aplicaç
 - Personalização da experiência: Uma animação pode ser usada para personalizar a experiência do usuário e tornar o sistema mais único e memorável. Isso pode ser especialmente útil para marcas que desejam criar uma identidade visual consistente.
 - Redução do abandono: Páginas de erro 404 animadas podem ajudar a manter o interesse dos usuários e evitar que eles abandonem o sistema após encontrar um erro. Se o usuário perceber que a experiência ainda é interessante e interativa, ele pode ser incentivado a explorar outras partes do sistema.
 
-Tenho consciência que em uma aplicação real, talvez a animação não fosse aprovada, até mesmo por conta do ramo, mas por se tratar de um projeto fictício, acreditei que o cliente fictício aprovou :) 
-E aproveitei a oportunidade para explorar algo novo para mim.
 
 [hitpaw-1690975177678.webm](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/21ecd7cb-cc44-46a9-aaa0-68f1d51b603e)
 
+Tenho consciência que em uma aplicação real, talvez a animação não fosse aprovada, até mesmo por conta do ramo, mas por se tratar de um projeto fictício, acreditei que o cliente fictício aprovou :) 
+E aproveitei a oportunidade para explorar algo novo para mim.
 
+Embora eu tenha usado vários vetores free e feito imagens no Adobe Ilustrador para montar a cena, a logíca para os movimentos não é minha. Por isso não posso deixar de citar a referência para essa animação que vi no repositório
+da brunasilvaraujo - Bruna Silva.
 
 
