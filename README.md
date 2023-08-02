@@ -19,6 +19,7 @@
 * [Aprendizado](#aprendizado)
 * [Autor](#autor)
 * [Agradecimentos](#agradecimentos)
+* [Extra](#autor)
 
 # Roteiro da aplicação
 
@@ -136,6 +137,15 @@ Mentor: Robert Santos
      ------------- em breve -------------
 
 # Extra
+
+Nesse projeto resolvi experimentar uma animação, por se tratar de uma aplicação para area de saúde o sistema deveria ser o mais simples, rápido e facil de usar, além de ter um layout leve. Então tinha muito espaço para explorar, então usei a página animada na rota de erro 404. Acreditando em alguns pontos:
+
+- Atratividade visual: Uma página de erro animada pode chamar mais a atenção do usuário e tornar a experiência de erro menos frustrante. Optei por uma animação divertida, tornando o momento de erro menos desagradável.
+- Personalização da experiência: Uma animação pode ser usada para personalizar a experiência do usuário e tornar o sistema mais único e memorável. Isso pode ser especialmente útil para marcas que desejam criar uma identidade visual consistente.
+- Redução do abandono: Páginas de erro 404 animadas podem ajudar a manter o interesse dos usuários e evitar que eles abandonem o sistema após encontrar um erro. Se o usuário perceber que a experiência ainda é interessante e interativa, ele pode ser incentivado a explorar outras partes do sistema.
+
+Tenho consciência que em uma aplicação real, talvez a animação não fosse aprovada, até mesmo por conta do ramo, mas por se tratar de um projeto fictício, acreditei que o cliente fictício aprovou :) 
+E aproveitei a oportunidade para explorar algo novo para mim.
 
 [hitpaw-1690975177678.webm](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/21ecd7cb-cc44-46a9-aaa0-68f1d51b603e)
 
