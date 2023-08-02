@@ -72,9 +72,6 @@ Caso encontre dificuldades na instalação do JSON Server, acesse o link com o p
 
 
 
-
- 
-
 # Dependências
 
 As dependências utilizadas nessa aplicação serão instaladas automaticamente quando usado o comando "npm install", logo depois de clonar o projeto. Conforme é detalhado no topico Instalação dessa documentação.
@@ -91,6 +88,22 @@ Embora não seja necessária a instalação individual de cada uma das dependenc
 | "react-router-dom" | ^6.14.1 | O React-Router-DOM é uma biblioteca que oferece roteamento para aplicações React baseadas em navegadores. Ele permite criar rotas que correspondem a diferentes componentes e gerenciar a navegação entre páginas. |
 | "react-toastify" | ^9.1.3 | O React-Toastify é uma biblioteca para exibir notificações e mensagens temporárias na interface do usuário.É útil para exibir mensagens de sucesso, erro ou outras informações importantes para o usuário. |
 | "styled-components" | ^6.0.4 | O Styled-Components é uma biblioteca que permite escrever estilos CSS diretamente nos componentes React.Com ele, você pode criar estilos específicos para cada componente, tornando o código mais modular e reutilizável. |
+
+
+DevDependencies são as dependências que são necessárias apenas durante o desenvolvimento do projeto, não sendo essenciais para o funcionamento da aplicação em ambiente de produção. Elas incluem ferramentas de desenvolvimento, bibliotecas de tipagem, plugins de linting e outras ferramentas de suporte ao desenvolvimento.
+
+
+| DevDependência | Versão | Uso |
+| ------ | ------ | ------ |
+| "@types/react" | "^18.2.14" | Fornece tipos TypeScript para a biblioteca React, permitindo que o TypeScript verifique o código em relação ao React e suas props. |
+| "@types/react-dom" | "^18.2.6" | Fornece tipos TypeScript para a biblioteca ReactDOM, permitindo que o TypeScript verifique o código em relação ao ReactDOM e suas funcionalidades. |
+| "@vitejs/plugin-react" | "^4.0.1" | Plugin oficial para o Vite.js que permite a integração e configuração fácil do React no ambiente de desenvolvimento. |
+| "eslint" | "^8.44.0" | Ferramenta de linting que ajuda a manter um código JavaScript ou TypeScript consistente e sem erros de estilo. |
+| "eslint-plugin-react" | "^7.32.2" | Plugin do ESLint para regras específicas do React, garantindo boas práticas e padrões recomendados ao escrever código React. |
+| "eslint-plugin-react-hooks" | "^4.6.0" | Plugin do ESLint que adiciona regras para verificar o uso correto dos Hooks do React. |
+| "eslint-plugin-react-refresh" | "^0.4.1" | Plugin do ESLint que ajuda a manter a consistência entre o Fast Refresh e o ESLint durante o desenvolvimento com React. |
+| "prop-types" | "^15.8.1" | Biblioteca utilizada para verificar as propriedades (props) passadas para componentes React, ajudando a garantir que os dados esperados sejam passados corretamente. |
+| "vite" | "^4.4.0" | Vite.js é uma estrutura de desenvolvimento rápido que permite um desenvolvimento rápido e eficiente de aplicações web modernas. Essa dependência é usada no ambiente de desenvolvimento. |
 
 
 # Formato do sistema
