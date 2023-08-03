@@ -48,8 +48,8 @@ Caso tenha duvidas de como clonar um repositório, siga as intruções do propri
 
 
 ```bash
-  npm install ProjetoAvaliativoModulo2
   cd ProjetoAvaliativoModulo2
+  npm install ProjetoAvaliativoModulo2
 ```
 
 Em seguida use o comando abaixo para iniciar o projeto
@@ -59,15 +59,12 @@ Em seguida use o comando abaixo para iniciar o projeto
 ```
 Nesse projeto fizemos o uso do JSON Server  que é uma ferramenta que simula um servidor de API RESTful com base em um arquivo JSON. Ele permite criar rapidamente uma API fictícia para testar e desenvolver sistemas sem a necessidade de um servidor real.
 
-O JSON Server cria uma API RESTful falsa a partir de um arquivo JSON contendo dados simulados. Esses dados podem ser consultados, criados, atualizados e excluídos usando as rotas e métodos HTTP padrão.
-
-Caso encontre dificuldades na instalação do JSON Server, acesse o link com o passo a passo.
-- entre na pasta server conforme demonstrado abaixo e instale o JSON Server no projeto executando o seguinte comando:
+Entre na pasta server conforme demonstrado abaixo e instale o JSON Server no projeto executando o seguinte comando:
 
 ```bash
   cd src/
   cd src/server
-  npm install json-server
+  json-server --watch db.json
 ```
 
 
@@ -81,6 +78,7 @@ Embora não seja necessária a instalação individual de cada uma das dependenc
 | Dependência | Versão | Uso |
 | ------ | ------ | ------ |
 | "axios" | ^1.4.0 | O Axios é uma biblioteca JavaScript que permite fazer requisições HTTP para servidores. É muito utilizado para realizar operações como buscar, enviar, atualizar e excluir dados de APIs e servidores. |
+| "json-server" | ^0.17.3 | O JSON Server cria uma API RESTful falsa a partir de um arquivo JSON contendo dados simulados. Esses dados podem ser consultados, criados, atualizados e excluídos usando as rotas e métodos HTTP padrão. |
 | "react" | ^18.2.0 | O React é uma biblioteca JavaScript para construção de interfaces de usuário. Ele permite criar componentes reutilizáveis, que atualizam automaticamente quando há mudanças nos dados. |
 | "react-dom" | ^18.2.0 | O React-DOM é um pacote que facilita a integração do React com o DOM do navegador. Ele é responsável por renderizar os componentes React na página web. |
 | "react-icons" | ^4.10.1 | O React-Icons é uma biblioteca que fornece um conjunto de ícones populares. Com ele, você pode facilmente incluir ícones em sua aplicação React sem a necessidade de imagens ou fontes adicionais. |
