@@ -13,6 +13,7 @@
 * [Instalação e execução](#instalação-e-execução)
 * [Dependências](#dependências)
 * [Formato do Sistema ](#formato-do-sistema)
+* [Demonstração do sistema funcionando](#demonstração-do-sistema-funcionando)
 * [Layout](#layout)
 * [Organização](#organização-para-o-desenvolvimento-do-projeto)
 * [Melhorias](#melhorias)
@@ -116,6 +117,13 @@ Aplicação foi construída utilizando a biblioteca React:
 - Foi utilizado o GitHub como versionador de código:
 - Foi utilizado do padrão baseado em GitFlow com main, features e releases.
 - Foi utilizado commits curtos e concisos.
+
+# Demonstração do sistema funcionando
+
+Gravei uma breve demonstração do funcionamento do sistema e postei no youtube. <br>
+Segue o link:
+
+https://youtu.be/Vued-6A8PHY 
 
 # Layout
 
