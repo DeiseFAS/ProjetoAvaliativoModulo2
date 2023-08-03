@@ -19,6 +19,7 @@
 * [Melhorias](#melhorias)
 * [Aprendizado](#aprendizado)
 * [Autor](#autor)
+* [Apresentação do projeto](#apresentação-do-projeto)
 * [Agradecimentos](#agradecimentos)
 * [Extra](#extra)
 
@@ -184,11 +185,26 @@ Com o desenvolviento desse projeto pude experimentar as "dores e delicias" de fa
 - React: React básico, Renderização de Componentes, Props, Prop Types, Hooks Principais (useState, useEffect e useRef), eventos, renderização de listas, Hooks Avançados (useReducer e useContext), React Router, Formulários, Prop Drilling, Composition, Estilos (Styled Components e Bootstrap), Developer Tools e Deploy.
 - Skills: aperfeiçoamento da minha forma de organização, criação de documentação, apresentação de solução e a pedir ajuda quando necessário.
 
+# Apresentação do projeto
+
+Além do desenvolvimento deste sistema deveriamos gravar um vídeo, com tempo máximo de 5 minutos; tarefa que foi bem difici, então aconselho você, caso assista o vídeo a alterar a velocidade para menos,pq quando gravei precisei acelerar para dar conta de tudo que precisava falar. No video foram abordandos os seguintes questionamentos:
+Qual o objetivo do sistema? E demonstração de funcionamento.
+O que deve ser realizado para executar o sistema?
+Como você organizou as tarefas antes de começar a desenvolver?
+Quais as branches você criou e quais os objetivos para cada uma?
+Você acha que faltou algo no seu código que você poderia melhorar?
+
+Segue link da apresentação:
+https://www.youtube.com/watch?v=FO3pamgH0T4
+
+
+
 # Autor
 
 Esse projeto foi desenvolvido por: Deise F A S.
 
 Mentor Queridão: Robert Santos
+
 
 # Agradecimentos
 
