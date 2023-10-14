@@ -1,7 +1,8 @@
 <h1 align="center">Módulo 2 🎓 Projeto Avaliativo </h1>
 <p align="center">Curso Lab365 - SESI SENAI - Projeto Floripa Mais Tec<p/>
 
-![banner git - projeto avaliativo modulo2](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/355b92be-f083-4d61-91fb-78fd5cc6fe71)
+
+![banner1](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/e8d49a0b-e731-4c68-97b8-dd6809af1ef2)
 
 <p align="center"> Aplicação Front-End do software que intitulei de MEDIFACIL. Aplicação que foi construída utilizando a biblioteca React.</p>
 
@@ -128,7 +129,8 @@ https://youtu.be/Vued-6A8PHY
 
 # Layout
 
-![image](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/19db0327-6001-4731-af2c-b483a8a36d02)
+
+![layout1](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/7789c242-2257-4851-a1b6-f2afbb33702e)
 
 
 Como tivemos a liberdade para batizar a aplicação, o Layout foi pensado para seguir o ínicio de uma identidade visual criada lá no projeto do módulo1, uando o mesmo nome e logo criados por mim. 
@@ -136,7 +138,8 @@ A estrutura no entanto, segui o exemplo fornecido no escopo do projeto.
 
 ## Desenvolvimento e criação
 
-![design](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/e8e5cb61-d8c8-48ca-ae3d-0623d6506a53)
+![desenvolvimento1](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/602cc63d-78a1-4c5f-a6d2-6068fa213de2)
+
 
 | N.º | Descrição | uso na aplicação |
 | ------ | ------ | ------ |
@@ -163,7 +166,8 @@ Foram criadas todas as tarefas necessárias ao desenvolvimento do projeto, fazen
 
 Na imagem abaixo é possivel ver a organização do quadro na primeira semana e o exemplo da estrutura de um card. com etiquetas e checklist utilizado.
 
-![trello-modulo2](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/85cb6962-761a-407f-b2ec-51401dbaa8ac)
+![trello](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/e771fc7e-81bb-4e12-ba60-051e2faf2331)
+
 
 # Melhorias
 
@@ -218,8 +222,7 @@ Nesse projeto resolvi experimentar uma animação, por se tratar de uma aplicaç
 - Personalização da experiência: Uma animação pode ser usada para personalizar a experiência do usuário e tornar o sistema mais único e memorável. Isso pode ser especialmente útil para marcas que desejam criar uma identidade visual consistente.
 - Redução do abandono: Páginas de erro 404 animadas podem ajudar a manter o interesse dos usuários e evitar que eles abandonem o sistema após encontrar um erro. Se o usuário perceber que a experiência ainda é interessante e interativa, ele pode ser incentivado a explorar outras partes do sistema.
 
-
-[hitpaw-1690975177678.webm](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/21ecd7cb-cc44-46a9-aaa0-68f1d51b603e)
+[257797018-21ecd7cb-cc44-46a9-aaa0-68f1d51b603e.webm](https://github.com/DeiseFAS/ProjetoAvaliativoModulo2/assets/71991444/4c65289d-5222-4d3e-91b7-25c024a74706)
 
 Tenho consciência que em uma aplicação real, talvez a animação não fosse aprovada, até mesmo por conta do ramo, mas por se tratar de um projeto fictício, acreditei que o cliente fictício aprovou :) 
 E aproveitei a oportunidade para explorar algo novo para mim.
